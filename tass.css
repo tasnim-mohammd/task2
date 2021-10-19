@@ -1,0 +1,30 @@
+.container{
+ 
+    border: 1px solid rgb(133, 36, 36);
+    height: 900px;
+    width: 80%;
+    margin: 50px auto;
+    background-color: rgba(160, 4, 4, 0.575);
+    text-align: center;
+    border-radius: 15px;
+    }
+    .continer .img{
+        height: 500px;
+        border-radius: 15px;
+        margin-top: 5%;
+    }
+    .flex-box-container{
+        display: flex;
+        border: 1px solid rgb(82, 100, 202);
+        flex-wrap: wrap;
+        justify-content: space-around;
+        background-color: white;
+        outline: 0;
+        padding: 15px 30px;
+        cursor: pointer;
+    }
+    .flex-box-container{
+        border: 1px solid rgb(160, 241, 160);
+        padding: 10px;
+        opacity: 0.7;
+    }
